@@ -1,5 +1,5 @@
 <h1 align="center">Hi (～￣▽￣)～, I'm Harsh Pandey</h1>
-<h3 align="center">A passionate AI enthusiast and Python Developer from India</h3>
+<h3 align="center">A passionate AI enthusiast and Researcher from India</h3>
 
 - 🔭 I’m currently working on **D-pulse**
 
