@@ -1,11 +1,5 @@
 <h1 align="center">Hi (～￣▽￣)～, I'm Harsh Pandey</h1>
-<h3 align="center">A passionate AI enthusiast and Researcher from India</h3>
-
-- 🔭 I’m currently working on **Automated Segmentation**
-
-- 🌱 I’m currently learning **Data structures , JavaScript**
-
-- 💬 Ask me about **Computer Vision , Machine Deep and Reinforcement Learning**
+<h3 align="center"> AI enthusiast and Researcher from India</h3>
 
 - 📫 How to reach me **harshpandey00701@gmail.com**
 
